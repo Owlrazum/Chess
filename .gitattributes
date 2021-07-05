@@ -85,4 +85,5 @@
 *.sbsar filter=lfs diff=lfs merge=lfs -text
 *.unity filter=lfs diff=lfs merge=lfs -text
 # Other binary formats
+# Custom
 *.cubemap filter=lfs diff=lfs merge=lfs -text
